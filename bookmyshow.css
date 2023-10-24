@@ -1,0 +1,218 @@
+.first{
+    background-color: #353744;
+    background-position: top right;
+    height: 50px;
+    width: 100.5%;
+    padding-top: 10px;
+}
+.image{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 50px;
+}
+
+#button{
+    border: none;
+    background-color:#353744 ;
+    position: absolute;
+    top: 32px;
+    right: 9%;
+    height: 10px;
+  
+}
+.loc{
+    background-color:#353744;
+    color: white;
+    padding-right: 10px 20px;
+    border: none;
+    position: absolute;
+    height: 44px;
+    
+    right: 18%;
+}
+.search{
+    border-radius: 10px;
+    position: absolute;
+    height: 40px;
+    width: 700px;
+    top: 18px;
+    left: 15%
+}
+#searchicon{
+   position:relative;
+   top:-40px;
+   left:230px;
+}
+#menuicon{
+    position: relative;
+    top: 10px;
+    left: 96%;
+    color: white;
+}
+
+
+.second{
+    padding-left: 10px;
+    background-color: #262138;
+    height: 50px;
+    width: 100.5%;
+    top: 10px;
+}
+.inline-text{
+    display: inline-block;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#icc{
+    position: relative;
+    padding-top: 10px;
+    height: 30px;
+    width: 500px;
+}
+.image1{
+     height: 60px;
+    width: 100.9%;
+    
+}
+.final{
+    height: 100px;
+    position: absolute;
+    left: 10%;
+    top: 72%;
+    background-repeat: no-repeat;
+    
+}
+#movies{
+  height: 500px;
+  width: 240px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.movie{
+    display: block;
+    position: absolute;
+    top: 680px;
+    left: 10%;
+}
+.text{
+    position: absolute;
+    top: 605px;
+    left: 10%;
+    font-size: 30px;
+    
+}
+.border{
+    height: 100px;
+    position: absolute;
+    left: 10%;
+    top: 165%;
+    background-repeat: no-repeat;
+}
+#movies3{
+    height: 250px;
+  width: 240px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.last{
+    display: block;
+    position: absolute;
+    top: 190%;
+    left: 10%;
+}
+.text2{
+    position: absolute;
+    top: 180%;
+    left: 10%;
+    font-size: 30px;
+    
+}
+
+
+#man{
+    position: absolute;
+    top: 230%;
+    width: 100%;
+}
+.next{
+    
+    
+    height: 500px;
+    background-color:#2d304d ;
+    position: absolute;
+    top: 245%;
+    width: 100%;
+}
+.text8{
+  
+    position: absolute;
+    top: 1750px;
+    left: 6%;
+    font-size: 30px;
+    color: white;
+ }
+ .text9{
+    position: absolute;
+    left: 6%;
+    top: 1800px;
+    color: white;
+ }
+.next{
+    display: block;
+    position: absolute;
+    top: 245%;
+}
+#movies4{
+    
+    height: 350px;
+    width: 240px;
+    padding: 20px;
+    position: relative;    
+    left: 4%;
+    top: 30px;
+    border-radius: 10px;
+}
+.text10{
+    position: absolute;
+    top: 2310px;
+    left: 10%;
+    color: black;
+}
+#movies10{
+    height: 400px;
+    width: 240px;
+    padding: 5px;
+    border-radius: 10px;
+  }
+.moviess{
+      display: block;
+      position: absolute;
+      top: 2375px;
+      left: 10%;
+  }
+
+  #sc{
+    position: absolute;
+    top: 2800;
+    width: 100.5%;
+  }
+  #sc1{
+    position: absolute;
+    top: 3390;
+    width: 100.5%;
+  }
+  #sc2{
+    position: absolute;
+    top: 3970;
+    width: 100.5%;
+  }
+
+    
+    
+
+
+
+    
+
